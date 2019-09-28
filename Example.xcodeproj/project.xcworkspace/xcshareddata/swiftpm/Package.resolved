@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PullToExpand",
+        "repositoryURL": "https://github.com/juliand665/PullToExpand",
+        "state": {
+          "branch": "master",
+          "revision": "6b26100c8e25afd20a9a1d376d5317241f9d1c03",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
